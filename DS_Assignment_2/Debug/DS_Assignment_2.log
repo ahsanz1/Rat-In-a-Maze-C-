@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\ahsan z\documents\visual studio 2015\projects\ds_assignment_2\ds_assignment_2\main.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ahsan z\documents\visual studio 2015\projects\ds_assignment_2\ds_assignment_2\maze.h(76): warning C4715: 'Maze::getValidPosition': not all control paths return a value
+c:\users\ahsan z\documents\visual studio 2015\projects\ds_assignment_2\ds_assignment_2\stack.h(79): warning C4715: 'Stack<char>::stackTop': not all control paths return a value
+  DS_Assignment_2.vcxproj -> C:\Users\Ahsan Z\Documents\Visual Studio 2015\Projects\DS_Assignment_2\Debug\DS_Assignment_2.exe
+  DS_Assignment_2.vcxproj -> C:\Users\Ahsan Z\Documents\Visual Studio 2015\Projects\DS_Assignment_2\Debug\DS_Assignment_2.pdb (Full PDB)
